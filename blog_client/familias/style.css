@@ -1,0 +1,50 @@
+body {
+    background: rgb(38, 60, 99);
+}
+
+h1, h2 {
+    color: rgb(218, 122, 32);
+}
+
+p, td, label {
+    color: rgb(223, 223, 223);
+}
+a {
+    color: rgba(255, 136, 0, 0.753);
+}
+
+input {
+    background-color: rgba(128, 128, 128, 0.466);
+    border: 0px;
+    color: whitesmoke;
+}
+input:disabled {
+    background-color: rgba(24, 10, 10, 0.582)!important;
+}
+.input-broken {
+    background-color: rgba(24, 10, 10, 0.582)!important;
+}
+
+td {
+    background-color: rgba(2, 2, 177, 0.171);
+    
+}
+
+.table-top {
+    color: rgb(218, 106, 32);
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+.table-id {
+    color: rgb(218, 38, 32);
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+.table-edit {
+    background-color: rgba(0, 0, 0, 0.226);
+}
+
+table {
+    background: rgba(84, 81, 131, 0.295);
+    background: linear-gradient(131deg, rgba(38, 20, 88, 0.295) 0%, rgba(9, 9, 121, 0.295) 89%, rgba(9,9,121,0.295) 100%);
+}
